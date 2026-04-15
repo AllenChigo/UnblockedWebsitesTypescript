@@ -1,2 +1,1 @@
-# Minecraft-On-Typescript
-Just Minecraft In Typescript.
+Use this to Unblock websites at School Or Work
